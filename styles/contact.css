@@ -200,6 +200,7 @@ button{
     background: #0328EE;
     border: none;
     width: fit-content;
+    transition: all 300ms;
 }
 
 
@@ -459,6 +460,9 @@ button:hover{
     margin-bottom: 6px;
 }
 
+.icon-button:hover{
+    background: #031FB4;
+}
 
 /* МЕДИА ЗАПРОСЫ ______________________________________________________________________________________________ */
 
